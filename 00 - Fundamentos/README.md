@@ -32,4 +32,4 @@ A base do código foi fornecida pela DIO, mas eu fiz algumas alterações para a
 
 1. Clone este repositório:
    ```bash
-   git clone <URL-do-repositório>
+   git clone [<URL-do-repositório](https://github.com/zico2026/trilha-python-dio.git)>
