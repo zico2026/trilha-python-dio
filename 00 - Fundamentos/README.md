@@ -34,6 +34,6 @@ Durante o desenvolvimento, pratiquei:
    ```bash
    git clone https://github.com/zico2026/trilha-python-dio.git
 
-## Arquivo do proje
+## Arquivo do projeto
 Este README acompanha especificamente o arquivo desafio.py, que está nesta mesma pasta.
 O código desse arquivo é o que implementa o sistema bancário simples deste lab.
