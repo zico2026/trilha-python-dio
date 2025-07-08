@@ -1,35 +1,35 @@
-# Desafio: Sistema Bancário Simples em Python
+# Lab Project: Criando um Sistema Bancário com Python
 
-## Sobre o Desafio
+## Sobre o Lab
 
-Este é o meu projeto final do Bootcamp Back End Santander/DIO. O desafio consiste na criação de um *sistema bancário simples* em Python. O objetivo foi implementar as operações essenciais de um banco: *depósito, **saque* e *extrato*. Através desse desafio, pude colocar em prática conceitos importantes de Python, como manipulação de strings, operadores aritméticos e estruturas condicionais.
+Este é um projeto prático dentro do módulo *Operadores e Manipulação de Strings com Python, do Bootcamp Back End Santander/DIO. O objetivo é criar um sistema bancário simples, que implemente as operações básicas: **depósito, saque* e *extrato*.
+
+Esse lab foi uma oportunidade para aplicar conceitos fundamentais de Python, consolidar a lógica e manipulação de dados, além de entender melhor os fluxos condicionais.
 
 ## Funcionalidades Implementadas
 
-- *Depósito:* Permite ao usuário adicionar valores ao saldo da conta.
-- *Saque:* Permite ao usuário retirar valores, com restrições como limite por saque e quantidade máxima de saques diários.
-- *Extrato:* Exibe todas as transações realizadas e o saldo atual.
-- *Encerramento:* O sistema permite ao usuário encerrar o programa de maneira segura.
+- *Depósito:* adiciona valores ao saldo da conta.
+- *Saque:* retira valores, respeitando limite por operação e quantidade máxima diária.
+- *Extrato:* mostra as transações realizadas e o saldo atual.
+- *Encerramento:* permite sair do sistema com segurança.
 
 ## O Que Eu Aprendi
 
-Durante esse desafio, eu aprendi e apliquei os seguintes conceitos:
+Durante o desenvolvimento, pratiquei:
 
-- *Operadores Aritméticos:* Para gerenciar o saldo da conta bancária.
-- *Estruturas Condicionais:* Como if, elif e else para validar entradas e realizar verificações.
-- *Laços de Repetição:* O uso do while para manter o programa ativo até que o usuário decida encerrar.
-- *Validação de Dados:* Assegurando que o usuário não possa realizar operações inválidas, como saques acima do saldo.
+- Operadores aritméticos para gerenciar saldo.
+- Condicionais (if, elif, else) para validar entradas e decisões.
+- Laços de repetição (while) para manter o programa rodando até a saída.
+- Validação de dados para evitar operações inválidas.
 
-## Alterações Feitas
+## Alterações Realizadas
 
-A base do código foi fornecida pela DIO, mas eu fiz algumas alterações para atender às minhas preferências e melhorar a experiência:
-
-- Alterei o menu de opções para números (em vez de letras), para facilitar a leitura e tornar o programa mais intuitivo.
-- Ajustei limites de saque, como o valor máximo por operação e o número máximo de saques diários.
-- Optei por não usar listas ou estruturas mais avançadas, já que estou no começo e focando em consolidar os fundamentos de Python.
+- Modifiquei o menu, usando números em vez de letras para facilitar a leitura.
+- Ajustei os limites de saque para testar melhor as funcionalidades.
+- Mantive o foco no básico, sem usar listas ou estruturas mais complexas, para fixar bem os conceitos iniciais.
 
 ## Como Usar
 
-1. Clone este repositório:
+1. Clone o repositório:
    ```bash
    git clone https://github.com/zico2026/trilha-python-dio.git
